@@ -3,16 +3,10 @@
 <html>
     <head>
         <meta charset="utf-8">
-      
-        <style>
         
-        h1 {
-            color: rgb(184, 0, 230);
-        }  
-            
-        </style>
-    </head>
-    <body>
+       
+          </head>
+        <body>
 
  
  
@@ -32,7 +26,6 @@ Plays level 2
     <h3>no img</h3>
 Plays level 3
 <h3>no img</h3>
-
       
 </p>
 <h1 id="rules">rules</h1>
