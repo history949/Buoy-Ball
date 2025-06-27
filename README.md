@@ -5,7 +5,7 @@
 <html>
     <head>
         <meta charset="utf-8">
-        </head>
+    </head>
         <body>
 
  
@@ -39,5 +39,5 @@ Plays level 3
    2 If you hit the Buoy to the other side and only hit it once you get three points
    
    3 If you hit the ball out of bounds the other team gets to serve  </p>
-    </body>
+   </body>
 </html>
