@@ -16,7 +16,7 @@ Bouy ball is a sport that you hit a bouy with a board trying to get the bouy to 
 your on a team of three 3.
 <purple><a href="#rules" >find the rules here </a></purple>
 The sport started as a fun game at Carlton GA.
-The craters are (IN Order) Stella, Juwan, And Brantley.
+The creaters are (IN Order) Stella, Juwan, And Brantley.
 The Designers Are Spencer(book writher), Logon(maker), And Shepherd(website and Tech Designers) (me).
 The Players Are Joshua, Miles and ?. 
   <h1>Plays and Books</h1>
