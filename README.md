@@ -35,7 +35,9 @@ Plays level 3
 </p>
 <h1 id="rules">rules</h1>
 <p>1 If you hit the Buoy to the other side you get a point
+    
    2 If you hit the Buoy to the other side and only hit it once you get three points
+   
    3 If you hit the ball out of bounds the other team gets to serve  </p>
     </body>
 </html>
