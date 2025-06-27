@@ -1,11 +1,11 @@
 # Buoy-Ball
 <!DOCTYPE html>
+
+
 <html>
     <head>
         <meta charset="utf-8">
-        
-       
-          </head>
+        </head>
         <body>
 
  
@@ -15,7 +15,7 @@
 Bouy ball is a sport that you hit a bouy with a board trying to get the bouy to the other side to get a point.
 your on a team of three 3.
 <purple><a href="#rules" >find the rules here </a></purple>
-The sport started as a fun game at carllton GA.
+The sport started as a fun game at Carlton GA.
 The craters are (IN Order) Stella, Juwan, And Brantley.
 The Designers Are Spencer(book writher), Logon(maker), And Shepherd(website and Tech Designers) (me).
 The Players Are Joshua, Miles and ?. 
@@ -26,7 +26,12 @@ Plays level 2
     <h3>no img</h3>
 Plays level 3
 <h3>no img</h3>
-      
+      <h2>the loop</h2>
+    Is where you past the buoy to your team meats in a loop pattern.
+    <h2>the air</h2>
+    when served hit the ball in the air and hit it back in the air.
+    <h2>the one shot</h2>
+    hit the buoy to the other side and get three points.
 </p>
 <h1 id="rules">rules</h1>
     </body>
