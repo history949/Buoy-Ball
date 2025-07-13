@@ -1,20 +1,23 @@
 # Buoy-Ball
-<!DOCTYPE html>
+<!DOCTYPE HTML>
 
 
 <html>
     <head>
         <meta charset="utf-8">
+        a {
+        red
+        }
     </head>
         <body>
 
+
  
- 
-  <h1><a href="https://github.com/">Thank you GitHub for hosting this website</a></h1>
+  <h1> <a href="https://github.com/">Thank you GitHub for hosting this website</a> </h1>
 <p>
 Bouy ball is a sport that you hit a buoy with a board trying to get the buoy to the other side to get a point.
 your on a team of three 3.
-<purple><a href="#rules" >find the rules here </a></purple>
+<spam style="color: red;"><a href="#rules" >find the rules here </a></spam>
 The sport started as a fun game at Carlton GA.
 The creates are (IN Order) Stella, Juwan, And Brantley.
 The Designers Are Spencer(book writher), Logon(maker), And Shepherd(website and Tech Designers) (me).
