@@ -34,7 +34,7 @@ Plays level 3
     hit the buoy to the other side and get three points.
 </p>
 <h1 id="rules">rules</h1>
-vid()
+
 <p>1 If you hit the Buoy to the other side you get a point
     
    2 If you hit the Buoy to the other side and only hit it once you get three points
