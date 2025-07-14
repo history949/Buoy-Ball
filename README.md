@@ -5,9 +5,7 @@
 <html>
     <head>
         <meta charset="utf-8">
-        a {
-        red
-        }
+    
     </head>
         <body>
 
